@@ -1,0 +1,23 @@
+header {
+  padding-top: 2rem;
+}
+
+.banner{
+    background-color: #081534;
+    text-align: center;
+    max-width: 100%;
+}
+
+.banner img{
+    margin-top: 24px;
+    max-width: 100%;
+}
+
+h1{
+    text-align: center;
+    color: #fff;
+}
+
+.destaque {
+  color: #FFFB99;
+}

@@ -1,0 +1,34 @@
+.historia {
+    display: flex;
+    justify-content: center;
+    padding: 48px 24px;
+    background: var(--bg-subtle, #f9f8fc);
+    border-top: 1px solid var(--border);
+    border-bottom: 1px solid var(--border);
+}
+
+.historia-card {
+    max-width: 680px;
+    width: 100%;
+}
+
+.historia-card h2 {
+    font-size: 22px;
+    font-weight: 700;
+    color: var(--text-h);
+    margin-bottom: 20px;
+    letter-spacing: -0.02em;
+}
+
+.historia-card p {
+    font-size: 15px;
+    line-height: 1.8;
+    color: var(--text);
+    margin-bottom: 14px;
+}
+
+.historia-card p:last-child {
+    margin-bottom: 0;
+    font-weight: 600;
+    color: var(--text-h);
+}
